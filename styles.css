@@ -42,7 +42,7 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 
 .more-news{border-radius: 3px; background-color: #ffffff; display: block;border: 3px ;margin: 2px; padding: 10px; text-align: end;}
 
-.box{color: white; font-size: 100px;text-align:center; padding:15px; min-height: 200px; margin: 2px; border-radius: 4px; margin-left: 0; flex-wrap: wrap; align-items: flex-start;}
+.box{color: white; font-size: 100px;text-align:center; padding:15px; min-height: 200px; margin: 2px; border-radius: 4px; margin-left: 0; flex-wrap: wrap; align-items: flex-start; display: inline-block}
 
 .box1{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
 .box2{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 15vh; width: 15vh; padding: 0;}
@@ -66,6 +66,8 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 
 select{background-color:rgb(191, 0, 16); width: 150px; color: rgb(255, 255, 255);}
 
-.bigbox{display: flex; flex-direction: row; flex-wrap: wrap;max-width: 60vw;}
+.bigbox{display: block; flex-direction: row; flex-wrap: wrap;max-width: 60vw;}
 
 .left-link-box{display: block; background-color:rgb(230, 0, 18) ; height: 1730px; width: 1730px;}
+
+.topbox{display: flex; flex-direction: row;}
