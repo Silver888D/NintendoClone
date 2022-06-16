@@ -55,7 +55,7 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 .box9{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 30vh; width: 15vh; padding: 0;}
 .box10{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 30vh; width: 15vh; padding: 0;}
 
-.container{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap;align-content: space-around; margin-top: 15px; max-width: 1000px;}
+.container{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap;align-content: space-around; margin-top: 15px; max-width: 900px;}
 .container2{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap; align-content: space-around;margin-top: -15px;max-width: 1000px;}
 
 .share-on{width: 50%; background-color:rgba(38, 39, 39) ; color:rgb(255, 255, 255) ; height: 25px; padding: 15px;}
@@ -71,3 +71,5 @@ select{background-color:rgb(191, 0, 16); width: 150px; color: rgb(255, 255, 255)
 .left-link-box{display: block; background-color:rgb(230, 0, 18) ; height: 1730px; width: 1730px;}
 
 .topbox{display: flex; flex-direction: row;}
+
+.wholebox{display: flex; flex-direction: row;}
