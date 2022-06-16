@@ -44,16 +44,16 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 
 .box{color: white; font-size: 100px;text-align:center; padding:15px; min-height: 200px; margin: 2px; border-radius: 4px; margin-left: 0; flex-wrap: wrap; align-items: flex-start;}
 
-.box1{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 42vh; width: 15vh;}
-.box2{background-image: url('static/middletop.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 18vh; width: 15vh;}
-.box3{background-image: url('static/righttop.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 18vh; width: 15vh;}
-.box4{background-image: url('static/topmiddleright.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 18vh; width: 30vh;}
-.box5{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 20vh; width: 15vh;}
-.box6{ ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 20vh; width: 15vh;}
-.box7{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 20vh; width: 30vh;}
-.box8{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 40vh; width: 15vh;}
-.box9{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 40vh; width: 15vh;}
-.box10{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-end; object-fit: fill; height: 20vh; width: 30vh;}
+.box1{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
+.box2{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 15vh; width: 15vh; padding: 0;}
+.box3{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 15vh; width: 15vh; padding: 0;}
+.box4{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 15vh; width: 30vh; padding: 0;}
+.box5{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
+.box6{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
+.box7{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
+.box8{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
+.box9{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
+.box10{box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 30vh; width: 15vh; padding: 0;}
 
 .container{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap;align-content: space-around; margin-top: 15px; max-width: 1000px;}
 .container2{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap; align-content: space-around;margin-top: -15px;max-width: 1000px;}
