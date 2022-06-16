@@ -1,10 +1,10 @@
 body{background-color: rgb(244, 244, 244) ;}
 
-footer{align-self:center } 
+footer{margin-left: 88px; width: 2000px;} 
 
 .n-header{background: rgb(230, 0, 18); display: flex; justify-content: space-between;align-items: center;min-height: 74px; padding: 20px;border: 0;box-sizing: border-box; margin: -10px; box-shadow: 0 2px rgb(191, 0, 16);color: rgb(255, 255, 255);}
 
-.left-side{background: rgb(230, 0, 18); display: flex; justify-content: space-between;align-items: center;height: 100%;margin: 0; padding: 20px;border: 0;box-sizing: border-box; margin-left: -10px; flex-direction: row; flex-wrap: wrap; width: 90px; height: 100vh; margin-top: 12px; float: left;}
+.left-side{background: rgb(230, 0, 18); display: flex; justify-content: space-between;align-items: center;height: 100%;margin: 0; padding: 20px;border: 0;box-sizing: border-box; margin-left: -10px; flex-direction: row; flex-wrap: wrap; width: 90px; margin-top: 12px; float: left;}
 
 .left-nav{list-style: none;margin-top: -22px;}
 
@@ -22,6 +22,20 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 
 .sign-in{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px;}
 
+.star{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px;}
+
+.dPad{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px;}
+
+.switch-pads{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px;}
+
+.nin-store{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px; width: 70px;}
+
+.support{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px; width: 70px;}
+
+.g-o-p{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px; width: 70px;}
+
+.dots{filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(84deg) brightness(110%) contrast(101%); max-height: 40px; width: 70px;}
+
 .links{border-radius: 3px; background-color: #ffffff; display: block;border: 3px ;margin: 2px; padding: 10px; text-align: end;}
 
 .latest-news{border-radius: 3px; background-color: #ffffff; display: block;border: 3px ;margin: 2px; padding: 10px; text-align: left;}
@@ -30,19 +44,19 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 
 .box{color: white; font-size: 100px;text-align:center; padding:15px; min-height: 200px; margin: 2px; border-radius: 4px; margin-left: 0; flex-wrap: wrap; align-items: flex-start;}
 
-.box1{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 42vh; width: 15vh;}
+.box1{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: contain; height: 42vh; width: 15vh;}
 .box2{background-image: url('static/middletop.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 18vh; width: 15vh;}
 .box3{background-image: url('static/righttop.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 18vh; width: 15vh;}
-.box4{background-image: url('static/topmiddleright.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: center; object-fit: fill; height: 18vh; width: 30vh;}
+.box4{background-image: url('static/topmiddleright.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 18vh; width: 30vh;}
 .box5{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 20vh; width: 15vh;}
-.box6{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 40vh; width: 15vh;}
-.box7{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 40vh; width: 15vh;}
+.box6{ ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 20vh; width: 15vh;}
+.box7{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 20vh; width: 30vh;}
 .box8{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 40vh; width: 15vh;}
 .box9{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; object-fit: fill; height: 40vh; width: 15vh;}
-.box10{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-end; object-fit: fill; height: 40vh; width: 15vh;}
+.box10{background-image: url('static/topleft.jpg') ;box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-end; object-fit: fill; height: 20vh; width: 30vh;}
 
-.container{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap;align-content: space-around; margin-top: 15px;}
-.container2{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap; align-content: space-around;margin-top: -15px;}
+.container{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap;align-content: space-around; margin-top: 15px; max-width: 1000px;}
+.container2{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap; align-content: space-around;margin-top: -15px;max-width: 1000px;}
 
 .share-on{width: 50%; background-color:rgba(38, 39, 39) ; color:rgb(255, 255, 255) ; height: 25px; padding: 15px;}
 
@@ -51,3 +65,7 @@ li{display: block;border-top: 0.5px solid rgb(191, 0, 16);border-bottom: 0.5px s
 .page-end{width: 50%; background-color:rgb(230, 0, 18); color:rgb(255, 255, 255) ; height: 25px; padding: 15px; margin-top: 35px;height: 150px;border-radius: 3px; margin-bottom: -15px;}
 
 select{background-color:rgb(191, 0, 16); width: 150px; color: rgb(255, 255, 255);}
+
+.bigbox{display: flex; flex-direction: row; flex-wrap: wrap;max-width: 60vw;}
+
+.left-link-box{display: block; background-color:rgb(230, 0, 18) ; height: 1730px; width: 1730px;}

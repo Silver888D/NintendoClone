@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg3930" viewBox="0 0 367 372" version="1.1">
+  <title id="title5282">White bag for shopping. Bolsa blanca de compras.</title>
+  <defs id="defs3932">
+    <linearGradient id="linearGradient3874" y2="514.4" gradientUnits="userSpaceOnUse" x2="564.96" gradientTransform="translate(-235.28 -382.54)" y1="590.85" x1="628.06">
+      <stop id="stop3870" stop-color="#7b7b7b" offset="0"/>
+      <stop id="stop3872" stop-color="#989898" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient2996" gradientUnits="userSpaceOnUse" cy="291.03" cx="323.46" gradientTransform="matrix(-1.9574 -1.4681 .375 -.5 1045.1 1050.2)" r="160">
+      <stop id="stop2992" stop-color="#f2f2f2" offset="0"/>
+      <stop id="stop2994" stop-color="#f9f9f9" offset="1"/>
+    </radialGradient>
+    <linearGradient id="linearGradient3801" y2="494.71" gradientUnits="userSpaceOnUse" x2="329.37" gradientTransform="matrix(.40250 -.020464 .020464 .40250 35.708 266.29)" y1="428.44" x1="388.83">
+      <stop id="stop3797" stop-color="#ececec" offset="0"/>
+      <stop id="stop3799" stop-color="#f9f9f9" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3809" y2="555.01" gradientUnits="userSpaceOnUse" x2="401.07" gradientTransform="translate(-235.28 -382.54)" y1="806.67" x1="434.93">
+      <stop id="stop3805" stop-color="#e6e6e6" offset="0"/>
+      <stop id="stop3811" stop-color="#ececec" offset=".71677"/>
+      <stop id="stop3807" stop-color="#f9f9f9" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3849" y2="562.69" gradientUnits="userSpaceOnUse" x2="450.42" gradientTransform="translate(-235.28 -382.54)" y1="530.97" x1="710.52">
+      <stop id="stop3845" stop-color="#e6e6e6" offset="0"/>
+      <stop id="stop3884" stop-color="#f9f9f9" offset=".43554"/>
+      <stop id="stop3847" stop-color="#e6e6e6" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3928" y2="547.11" gradientUnits="userSpaceOnUse" y1="589.21" gradientTransform="translate(-235.28 -382.54)" x2="574.73" x1="609.2">
+      <stop id="stop4012" stop-color="#5f5f5f" offset="0"/>
+      <stop id="stop4014" stop-color="#a2a2a2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4610" y2="532.84" gradientUnits="userSpaceOnUse" y1="538.14" gradientTransform="translate(-235.23 -382.79)" x2="756.83" x1="720.17">
+      <stop id="stop4711" stop-color="#f9f9f9" offset="0"/>
+      <stop id="stop4713" stop-color="#f2f2f2" offset=".43554"/>
+      <stop id="stop4715" stop-color="#ececec" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-160.05 -101.82)">
+    <g id="g4735">
+      <path id="path3858" d="m305.92 209.11c-25.6-116.37 92.14-132.68 64.14-11.59" stroke="url(#linearGradient3928)" stroke-linecap="round" stroke-width="4.8722" fill="none"/>
+      <path id="rect3832" d="m165.18 173.41s134.01 0.83386 187.4-4.5849c53.395-5.4188 132.97-27.928 132.97-27.928l-0.47578 9.3573 35.367 0.15861-159.58 41.041-190.04 8.6207z" stroke-width="0" fill="url(#linearGradient3849)"/>
+      <path id="rect3776" d="m165.19 173.37 40.851 7.1552-3.5442 10.559 15.495 113.49-6.8576 122.63c6.3719 5.8016-12.194 8.6238-16.408 12.308l-30.677 8.947c14.326-29.912 11.372-82.385 11.296-125.67 0-31.605-10.155-149.42-10.155-149.42z" fill="url(#linearGradient3809)"/>
+      <path id="path3774" d="m201.24 469.77-18.823-10.254-18.159-11.083 31.062-9.9357 14.167-10.008-1.5086 22.462z" fill="url(#linearGradient3801)"/>
+      <path id="path3150" d="m485.07 150.24-0.3043 9.1089 36.372-9.5142z" stroke-width="0" fill="url(#linearGradient4610)"/>
+      <path id="path3188" d="m206.02 180.56 0.32951 9.681-5.2418-0.24005z" fill="#f2f2f2"/>
+      <path id="rect2985" d="m201.12 189.82s102.47 1.8606 155.8-4.806c53.333-6.6667 164.2-35.194 164.2-35.194s-9.0573 86.626-10.385 129.02c-1.328 42.399 2.4171 125.37 2.4171 125.37l7.9683 25.609-320 40 6.6402-19.127s6.1377-75.169 5.031-118.65c-1.1067-43.479-11.671-142.23-11.671-142.23z" fill="url(#radialGradient2996)"/>
+      <path id="path3853" d="m324.61 207.97c-26.28-119.43 94.55-136.16 65.82-11.9" stroke="url(#linearGradient3874)" stroke-linecap="round" stroke-width="5" fill="none"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>White bag</dc:title>
+        <dc:date>2011-09-20T22:31:04</dc:date>
+        <dc:description>White bag for shopping. Bolsa blanca de compras.</dc:description>
+        <dc:source>http://openclipart.org/detail/161593/white-bag-by-ehecatl1138</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ehecatl1138</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bag</rdf:li>
+            <rdf:li>blanco</rdf:li>
+            <rdf:li>bolsa</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>compras</rdf:li>
+            <rdf:li>mall</rdf:li>
+            <rdf:li>shopping</rdf:li>
+            <rdf:li>tiendas</rdf:li>
+            <rdf:li>white</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
