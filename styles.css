@@ -207,7 +207,7 @@ li {font-size: 80%;
     object-fit: fill;
     height: auto;
     width: 15vh;
-    padding: 0;
+    padding: 0; top: 6px;
 }
 
 .box2 {
@@ -279,7 +279,7 @@ li {font-size: 80%;
     align-self: flex-start;
     object-fit: fill;
     height: 30vh;
-    width: auto;
+    width: auto; top: 6px;
     padding: 0;
 }
 
