@@ -156,6 +156,15 @@ li {font-size: 80%;
     text-align: end;
 }
 
+.content {
+    border-radius: 3px;
+    background-color: #ffffff;
+    display: block;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    text-align: end; font-size: 70%;
+}
 .latest-news {
     border-radius: 3px;
     background-color: #ffffff;
@@ -180,16 +189,18 @@ li {font-size: 80%;
     color: white;
     font-size: 100px;
     text-align: center;
-    padding: 15px;
+    padding: 0px;
     min-height: 200px;
     margin: 2px;
     border-radius: 4px;
     margin-left: 0;
     flex-wrap: wrap;
     align-items: flex-start;
-    display: inline-block
+    display: inline-block; position: relative; top: 0; transition: top ease 0.5s;
 }
 
+.box:hover{position: relative; top: -5px; box-shadow: 2px 10px 3px rgba(38, 39, 39, 0.2);}
+    
 .box1 {
     box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8);
     align-self: flex-start;
@@ -219,7 +230,7 @@ li {font-size: 80%;
 
 .box4 {
     box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8);
-    align-self: flex-start;
+    align-self: flex-end;
     object-fit: fill;
     height: auto;
     width: 30vh;
@@ -249,18 +260,19 @@ li {font-size: 80%;
     align-self: flex-start;
     object-fit: fill;
     height: auto;
-    width: 30vh;
+    width: 33vh;
     padding: 0;
 }
 
 .box8 {
     box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8);
-    align-self: flex-start;
+    align-self: center; 
     object-fit: fill;
     height: 30vh;
     width: auto;
-    padding: 0; margin-left: -200px;
-}
+    padding: 0; top: -200px;}
+
+.box8:hover{position: relative; top: -205px; box-shadow: 2px 10px 3px rgba(38, 39, 39, 0.2);}
 
 .box9 {
     box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8);
@@ -281,14 +293,11 @@ li {font-size: 80%;
 }
 
 .container {
-    display: flex;
+    display: flex; flex-direction: column;
     max-height: fit-content;
-    flex-direction: col;
-    justify-content: space-around;
     flex-wrap: wrap;
-    align-content: space-around;
-    margin-top: 15px;
-    max-width: 1000px;
+    margin-top: 2px;
+    object-fit: fill;
 }
 
 
@@ -345,11 +354,12 @@ select {
 }
 
 .bigbox {
-    display: block;
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    max-width: 560px;
-    padding: 3px;
+    width: 640px; 
+    max-height: 410px;
+    padding: 3px; margin: 2px;object-fit: contain;
 }
 
 .left-link-box {
@@ -360,13 +370,13 @@ select {
 }
 
 .topbox {
-    display: flex;
-    flex-direction: row;
+    display: flex; align-items: center; max-height: 40vh; width: fit-content;
+    flex-direction: row;  margin: 2px; object-fit: contain;
 }
 
-.wholebox {
+.wholebox { margin: 2px;
     display: flex;
-    flex-direction: row;
+    flex-direction: row;object-fit: fill;
 }
 
 .fblogo{height: 35px; align-self: center;}
